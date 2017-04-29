@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">classwork</string>
+    <string name="email">Email</string>
+    <string name="userName">User Name</string>
 </resources>
